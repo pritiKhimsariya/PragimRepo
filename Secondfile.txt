@@ -1,1 +1,2 @@
 this is 2nd file create by developer1
+Text addeed to test merge from git hub
